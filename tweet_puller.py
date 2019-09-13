@@ -1,6 +1,6 @@
-def tweet_pull(scr_name, n_tweets):
-	import tweepy
+import tweepy
 
+def tweet_pull(scr_name, n_tweets):
 	keys = open("TKey.txt").read().split();
 	consumer_key = keys[0];
 	consumer_secret = keys[1];
