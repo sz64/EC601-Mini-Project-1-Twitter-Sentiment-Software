@@ -9,7 +9,3 @@ module_test.py: Temporary test module for the tweet_puller file.
 
 google_sentiments.py: Can analyse sentiments from a comment,this need a json file as a key.
 
-
-
-
-test2
