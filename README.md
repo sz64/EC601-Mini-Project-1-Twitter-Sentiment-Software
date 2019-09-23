@@ -16,7 +16,7 @@ Individuals who want an idea of how positive or negative a user is on average.
 
 tweet_puller.py: Takes the twitter username and number of tweets to analyze as inputs. Returns a list of strings for every tweet. Currently this file will read from a text file TKeys.txt for the API keys. 
 
-mention_puller.py: Uses a users twitter account API keys to pull mentions of that user. The file takes in no inputs and returns a list of mentions and the user who mentioned them. 
+mention_puller.py: Uses a users twitter account API keys to pull mentions of that user. The file takes in one input (number of tweets) and returns a list of mentions and the user who mentioned them. 
 
 module_test.py: Temporary test module for the tweet_puller file. 
 
