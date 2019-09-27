@@ -4,11 +4,9 @@ This is software that will relay tweets from Twitter to the Google Natural Langu
 ## User Stories:
 Business Owners who want to see the relative sentiment of tweets about their business.
 
-Business Owners who want to get the comments from real people rather than robots.
-
 Individuals who want to have a better estimate on the sentiment of responses on their profile. 
 
-Individuals who want an idea of how positive or negative a user is on average. 
+Individuals who want a better understanding of another user's tweets. 
 
 
 
