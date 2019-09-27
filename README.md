@@ -45,5 +45,4 @@ analyse_functions: At first we use this functions to combine the entities with t
 ## Future Changes
 - Spam Detection
 - More accurate system for filtering out users in out mentions_filter
-        - Related to spam detection
 - GUI
