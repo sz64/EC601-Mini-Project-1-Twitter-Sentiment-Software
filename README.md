@@ -8,7 +8,8 @@ Business Owners who want to see the relative sentiment of tweets about their bus
 
 Individuals who want a better understanding of another user's tweets. 
 
-
+## System Architecture:
+![system architecture](https://github.com/sz64/EC601-Mini-Project-1-Twitter-Sentiment-Software/blob/master/architecture.png)
 
 ## File Descriptions:
 
