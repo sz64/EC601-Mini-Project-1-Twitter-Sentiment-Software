@@ -21,4 +21,6 @@ mention_puller.py: Uses a users twitter account API keys to pull mentions of tha
 module_test.py: Temporary test module for the tweet_puller file. 
 
 google_sentiments.py: Can analyse sentiments from a comment,this need a json file as a key.
+google_apis: analyse text and get both entities and the senmtients of the entities.
+        such as: "The humburger is bad."=> [[Hamburger,-0.6]]
 
