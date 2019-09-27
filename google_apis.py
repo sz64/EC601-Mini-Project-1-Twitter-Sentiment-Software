@@ -7,7 +7,7 @@ import json
 from google.oauth2 import service_account
 
 def google_sentiments_entities(text):
-    client = language.LanguageServiceClient.from_service_account_json('My First Project-9514bd2f5e89.json')
+    client = language.LanguageServiceClient.from_service_account_json('GKey.json')
     if isinstance(text, six.binary_type):
         text = text.decode('utf-8')
     document = types.Document(
