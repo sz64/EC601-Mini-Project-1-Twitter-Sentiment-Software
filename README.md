@@ -9,7 +9,9 @@ Business Owners who want to see the relative sentiment of tweets about their bus
 Individuals who want a better understanding of another user's tweets. 
 
 ## Installation
-To install and run this program, download the entire repository, and execute run.py with python to use the software. There may be some dependencies that need to be installed in order to run this code.
+To install and run this program, download the entire repository, and execute run.py with python to use the software. There may be some dependencies that need to be installed in order to run this code. In order to run this code, however, two API key files need to be editted in order to work. Gkey.json is the google service account json which can be downloaded from their site, while TKey.txt is a file that contains both the twitter developer keys and the user's own personal twitter keys. 
+- GKey.json
+- TKey.txt
 
 ## Software Examples:
 ![ex1](https://github.com/sz64/EC601-Mini-Project-1-Twitter-Sentiment-Software/blob/master/F1.PNG)
