@@ -13,7 +13,7 @@ if int(func) == 2:
 	tweets = tweet_puller.tweet_pull(scr_name, n_tweets);
 elif int(func) == 1:
 	n_tweets = int(input('How many tweets would you like to analyze? '))
-	tweets = weighted_sentiment.mention_filter(n_tweets);
+	tweets = mentions_filter.mention_filter(n_tweets);
 else:
 	print('You did not enter a valid input')
 	exit()
