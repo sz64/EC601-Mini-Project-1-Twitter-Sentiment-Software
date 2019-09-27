@@ -16,9 +16,9 @@ To install and run this program, download the entire repository, and execute run
 ![ex2](https://github.com/sz64/EC601-Mini-Project-1-Twitter-Sentiment-Software/blob/master/F2.PNG)
 
 ### Module Requirements
-google-cloud
+- google-cloud
 
-tweepy
+- tweepy
 
 ## System Architecture:
 ![system architecture](https://github.com/sz64/EC601-Mini-Project-1-Twitter-Sentiment-Software/blob/master/architecture.png)
@@ -42,4 +42,8 @@ google_apis: analyse text and get both entities and the senmtients of the entiti
         
 analyse_functions: At first we use this functions to combine the entities with the same name. But last week we found the Natural Language API was updated and we don't need to use this function to combine anymore.
 
-
+## Future Changes
+- Spam Detection
+- More accurate system for filtering out users in out mentions_filter
+        - Related to spam detection
+- GUI
