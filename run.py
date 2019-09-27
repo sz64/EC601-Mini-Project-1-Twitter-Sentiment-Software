@@ -2,7 +2,7 @@ import tweepy
 import tweet_puller
 import google_sentiments
 import google_apis
-import weighted_sentiment
+import mentions_filter
 
 func = input('Type \"1\" to analyze your mentions or \"2\" for another user\'s tweets: ');
 
