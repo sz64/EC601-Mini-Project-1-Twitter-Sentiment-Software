@@ -11,6 +11,10 @@ Individuals who want a better understanding of another user's tweets.
 ## Installation
 To install and run this program, download the entire repository, and execute run.py with python to use the software. There may be some dependencies that need to be installed in order to run this code.
 
+## Software Examples:
+![ex1](https://github.com/sz64/EC601-Mini-Project-1-Twitter-Sentiment-Software/blob/master/F1.PNG)
+![ex2](https://github.com/sz64/EC601-Mini-Project-1-Twitter-Sentiment-Software/blob/master/F2.PNG)
+
 ### Module Requirements
 google-cloud
 
