@@ -8,6 +8,13 @@ Business Owners who want to see the relative sentiment of tweets about their bus
 
 Individuals who want a better understanding of another user's tweets. 
 
+## Installation
+To install and run this program, download the entire repository, and execute run.py with python to use the software. There may be some dependencies that need to be installed in order to run this code.
+
+### Module Requirements
+google-cloud
+tweepy
+
 ## System Architecture:
 ![system architecture](https://github.com/sz64/EC601-Mini-Project-1-Twitter-Sentiment-Software/blob/master/architecture.png)
 
